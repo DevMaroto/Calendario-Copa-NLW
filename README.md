@@ -5,7 +5,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  Link do meu site:  
+  Link do site:  https://devmaroto.github.io/Calendario-Copa-NLW/
 </p>  
 
 <p align="center">

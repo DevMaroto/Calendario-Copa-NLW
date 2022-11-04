@@ -25,6 +25,14 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src="https://github.com/DevMaroto/Calendario-Copa-NLW/blob/Main/ImageWall/calendario.png" width="100%">
 </p>
 
+<p align="center">
+  <img alt="rocketpay" src="https://github.com/DevMaroto/Calendario-Copa-NLW/blob/Main/ImageWall/calendariogreen.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="rocketpay" src="https://github.com/DevMaroto/Calendario-Copa-NLW/blob/Main/ImageWall/calendarioyellow.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
